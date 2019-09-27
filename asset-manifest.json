@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.af5b90bc.chunk.css",
+    "main.js": "/static/js/main.deaf188b.chunk.js",
+    "main.js.map": "/static/js/main.deaf188b.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.b7964c7b.js",
+    "runtime~main.js.map": "/static/js/runtime~main.b7964c7b.js.map",
+    "static/css/2.90dbf964.chunk.css": "/static/css/2.90dbf964.chunk.css",
+    "static/js/2.622b6e63.chunk.js": "/static/js/2.622b6e63.chunk.js",
+    "static/js/2.622b6e63.chunk.js.map": "/static/js/2.622b6e63.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.7f770b3df892d0a0fa03abc9b50de36e.js": "/precache-manifest.7f770b3df892d0a0fa03abc9b50de36e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.90dbf964.chunk.css.map": "/static/css/2.90dbf964.chunk.css.map",
+    "static/css/main.af5b90bc.chunk.css.map": "/static/css/main.af5b90bc.chunk.css.map",
+    "static/media/coreui-icons.css": "/static/media/CoreUI-Icons-Linear-Free.4b57c6a5.svg",
+    "static/media/simple-line-icons.css": "/static/media/Simple-Line-Icons.f33df365.eot",
+    "static/media/font-awesome.css": "/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/intro1.png": "/static/media/intro1.b236f20a.png",
+    "static/media/intro2.png": "/static/media/intro2.e335f6ee.png",
+    "static/media/intro3.png": "/static/media/intro3.0f2aa679.png",
+    "static/media/intro4.png": "/static/media/intro4.5dff3a42.png",
+    "static/media/intro5.png": "/static/media/intro5.55f8ad1e.png"
+  }
+}
